@@ -1,0 +1,31 @@
+{
+  "name": "figma-icons-loader",
+  "version": "1.0.0",
+  "description": "Utility function to load icons from Figma",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heydarm/figma-icons-loader.git"
+  },
+  "keywords": [
+    "figma",
+    "icons",
+    "load"
+  ],
+  "author": "heydarm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heydarm/figma-icons-loader/issues"
+  },
+  "homepage": "https://github.com/heydarm/figma-icons-loader#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
